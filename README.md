@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a pizza delivery application that offers ordering services and delivers pizza to your location
-- 🌱 I’m currently learning Web development and in particular, Javascript
+- 🔭 I’m currently working on a pizza delivery application that offers ordering services and offers delivery services to your location here in Nairobi, Kenya.
+- 🌱 I’m currently learning Web development and in particular, Javascript.
 - 👯 I’m looking to collaborate on web applications as this would further my skillset immensely.
 - 🤔 I’m looking for help with learning apis and databases.
 - 💬 Ask me about anything really, I am an open book and love socializing.
