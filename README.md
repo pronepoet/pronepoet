@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with learning apis and databases.
 - 💬 Ask me about anything really, I am an open book and love socializing.
 - 📫 How to reach me: ochiengphillip84@gmail.com
-- 😄 Pronouns: Sir
+- 😄 Pronouns: Him
 - ⚡ Fun fact: Bleach is the best anime. Change my mind why dont you?
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pronepoet&theme=radical)
