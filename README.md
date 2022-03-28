@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a Voting System, drawing inspiration from the coming general election in Kenya.
-- 🌱 I’m currently learning Web development and in particular, Javascript.
+- 🌱 I’m currently learning Web development and in particular, Javascript it's framework, Anglular.
 - 👯 I’m looking to collaborate on web applications as this would further my skillset immensely.
 - 🤔 I’m looking for help with implementing security features to the voting system application to help curb hacking.
 - 💬 Ask me about anything really, I am an open book and love socializing.
