@@ -28,3 +28,7 @@
 <a href="https://github.com/pronepoet/Akan_names.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=gruvbox_light" />
 </a>
+
+<a href="https://github.com/pronepoet/Akan_names.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=solarized-light" />
+</a>
