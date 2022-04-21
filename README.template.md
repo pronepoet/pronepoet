@@ -12,7 +12,7 @@
 - 📫 How to reach me: ochiengphillip84@gmail.com
 - ⚡ Fun fact: Bleach is the best anime. Change my mind.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack&custom_title=My GitHub Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top languages
 <!-- top languages -->
@@ -26,5 +26,5 @@
 </a>
 
 <a href="https://github.com/pronepoet/Akan_names.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=moltack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=gruvbox_light" />
 </a>
