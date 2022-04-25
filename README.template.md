@@ -41,3 +41,5 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&plastic&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=plastic&logo=Figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=4AB197)
