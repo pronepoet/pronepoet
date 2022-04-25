@@ -3,6 +3,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Ochieng5Phillip)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/phillip-ochieng-062922114/)
 
+[![Spotify](https://ew-amber.vercel.app/api/spotify)](https://open.spotify.com/user/0a977808e2f346ee820551ee5bde2468)
+
 ### Hi there 👋
 - 🔭 I’m currently working on learning Javascript in freecodecamp.
 - 🌱 I’m currently learning Web development and in particular, Javascript it's framework, Anglular.
@@ -11,7 +13,7 @@
 - 💬 Ask me about anything really, I am an open book and love socializing.
 - 📫 How to reach me: ochiengphillip84@gmail.com
 - ⚡ Fun fact: Bleach is the best anime. Change my mind.
-[![Spotify](https://ew-amber.vercel.app/api/spotify)](https://open.spotify.com/user/0a977808e2f346ee820551ee5bde2468)
+
 ### 💼 Skills and Tools
 
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=plastic&logo=html5&logoColor=white&color=4AB197)
