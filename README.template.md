@@ -40,4 +40,4 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&plastic&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=GitHub&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Tools-Figma-informational?style=plastic&logo=Figma&logoColor=white&color=4AB197)
