@@ -11,7 +11,7 @@
 - 💬 Ask me about anything really, I am an open book and love socializing.
 - 📫 How to reach me: ochiengphillip84@gmail.com
 - ⚡ Fun fact: Bleach is the best anime. Change my mind.
-
+[![Spotify](https://ew-amber.vercel.app/api/spotify)](https://open.spotify.com/user/0a977808e2f346ee820551ee5bde2468)
 ### 💼 Skills and Tools
 
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=plastic&logo=html5&logoColor=white&color=4AB197)
