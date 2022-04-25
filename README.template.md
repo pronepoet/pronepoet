@@ -36,6 +36,8 @@
 <!-- skills -->
 ### 💼 Skills
 
+![](https://img.shields.io/badge/Markup-HTML-informational?style=plastic&logo=HTML&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&plastic=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=GitHub&logoColor=white&color=4AB197)
+
