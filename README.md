@@ -22,11 +22,13 @@
 <a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
 <a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
-<a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/typescript.png"></a>
-<a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/ubuntu"></a>
-<a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/git.png"></a>
-<a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/npm"></a>
-<a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/console.png"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"></a>
+<a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/48/000000/ubuntu"></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"></a>
+<a href="https://www.npmjs.com"><img src="https://img.icons8.com/color/48/000000/npm"></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/console.png"></a>
+<a href="https://figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
+<a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github.png"></a>
 
 </p>
 
