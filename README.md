@@ -1,4 +1,4 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineer</h1>
+<h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineer</h1>
 
 [![Visits Badge](https://badges.pufler.dev/visits/pronepoet/pronepoet)]()
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Ochieng5Phillip)
@@ -7,16 +7,16 @@
 
 [![Spotify](https://ew-amber.vercel.app/api/spotify)](https://open.spotify.com/user/0a977808e2f346ee820551ee5bde2468)
 
-### About me 😎
-- 🔭 I’m currently working on learning Javascript in freecodecamp.
-- 🌱 I’m currently learning Web development and in particular, Javascript it's framework, Anglular.
+<h2 style="color:#982C44">## About me 😎</h2>
+<p>- 🔭 I’m currently working on learning Javascript in freecodecamp.</p>
+<p>- 🌱 I’m currently learning Web development and in particular, Javascript it's framework, Anglular.</p>
 - 👯 I’m looking to collaborate on open-source projects. Mainly web-based.
 - 🤔 I’m looking for help with implementing security features to the voting system application to help curb hacking.
 - 💬 Ask me about anything really, I am an open book and love socializing.
 - 📫 How to reach me: ochiengphillip84@gmail.com
 - ⚡ Fun fact: Bleach is the best anime. Change my mind.
 
-### 💼 Skills and Tools
+<h2 style="color:#982C44">## 💼 Skills and Tools</h2>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
@@ -33,7 +33,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💻Top languages
+## 💻Top languages
 <!-- top languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronepoet&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
