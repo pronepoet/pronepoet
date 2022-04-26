@@ -7,7 +7,7 @@
 
 [![Spotify](https://ew-amber.vercel.app/api/spotify)](https://open.spotify.com/user/0a977808e2f346ee820551ee5bde2468)
 
-<h2 style="color:#982C44">## About me 😎</h2>
+<h2>About me 😎</h2>
 <p>- 🔭 I’m currently working on learning Javascript in freecodecamp.</p>
 <p>- 🌱 I’m currently learning Web development and in particular, Javascript it's framework, Anglular.</p>
 <p>- 👯 I’m looking to collaborate on open-source projects. Mainly web-based.</p>
@@ -16,7 +16,7 @@
 <p>- 📫 How to reach me: ochiengphillip84@gmail.com</p>
 <p>- ⚡ Fun fact: Bleach is the best anime. Change my mind.</p>
 
-<h2 style="color:#982C44"> 💼 Skills and Tools</h2>
+<h2> 💼 Skills and Tools</h2>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronepoet&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2 style="color:#982C44">📌 Special Repositories</h2>
+<h2>📌 Special Repositories</h2>
 
 <!-- hapa ni place ya readme cards -->
 <a href="https://github.com/pronepoet/Environs.git">
