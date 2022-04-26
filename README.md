@@ -24,18 +24,6 @@
 </p>
 
 
-![](https://img.shields.io/badge/Markup-HTML-informational?style=plastic&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&plastic&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Library-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=plastic&logo=Figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=4AB197)
-
-
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻Top languages
