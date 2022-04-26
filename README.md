@@ -1,4 +1,5 @@
-[![Phillip's GitHub Banner](img/%20mypic.jpg)]()
+<h1>Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineer</h1>
+
 [![Visits Badge](https://badges.pufler.dev/visits/pronepoet/pronepoet)](https://pronepoet.github.io/portfolio_landing_page/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Ochieng5Phillip)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/phillip-ochieng-062922114/)
@@ -16,6 +17,12 @@
 - ⚡ Fun fact: Bleach is the best anime. Change my mind.
 
 ### 💼 Skills and Tools
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
+<a href="https://www.w3/org.html"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
+</p>
+
 
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=plastic&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=4AB197)
