@@ -1,6 +1,6 @@
 <h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineer</h1>
 
-[![Visits Badge](https://badges.pufler.dev/visits/pronepoet/pronepoet?style=&color=982C44)]()
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=982C44&color=982C44)](https://twitter.com/Ochieng5Phillip)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=982C44&color=982C44)](https://www.linkedin.com/in/phillip-ochieng-062922114/)
 
@@ -52,6 +52,4 @@
 <a href="https://github.com/pronepoet/Pizza-palace.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
 </a>
-<a href="https://github.com/pronepoet/chicken.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=chicken&theme=moltack" />
-</a>
+
