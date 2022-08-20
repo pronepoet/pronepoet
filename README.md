@@ -1,4 +1,4 @@
-<h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineer in training)</h1>
+<h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineering Student in Flatiron School.</h1>
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=982C44&color=982C44)](https://twitter.com/Ochieng5Phillip)
@@ -11,7 +11,7 @@
 <p>- 🔭 I’m currently in Flatiron School, a software engineering bootcamp.</p>
 <p>- 🌱 I’m currently learning Software Engineering and in particular, Javascript and Ruby.</p>
 <p>- 👯 I’m looking to collaborate on open-source projects. Mainly web-based.</p>
-<p>- 🤔 I’m looking for help with implementing security features to the voting system application to help curb hacking.</p>
+<p>- 🤔 I’m looking for help with Cybersecurity and implementing a vpn.</p>
 <p>- 💬 Ask me about Linux, I am fascinated by it.</p>
 <p>- 📫 How to reach me: ochiengphillip84@gmail.com</p>
 <p>- ⚡ Fun fact: Bleach is the best anime. Change my mind.</p>
