@@ -1,4 +1,4 @@
-<h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineer</h1>
+<h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineer in training)</h1>
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=982C44&color=982C44)](https://twitter.com/Ochieng5Phillip)
@@ -8,8 +8,8 @@
 [![Spotify](https://ew-amber.vercel.app/api/spotify)](https://open.spotify.com/user/0a977808e2f346ee820551ee5bde2468)
 
 <h2>About me 😎</h2>
-<p>- 🔭 I’m currently working on learning Javascript in freecodecamp.</p>
-<p>- 🌱 I’m currently learning Web development and in particular, Javascript it's framework, Anglular.</p>
+<p>- 🔭 I’m currently in Flatiron School, a software engineering bootcamp.</p>
+<p>- 🌱 I’m currently learning Software Engineering and in particular, Javascript and Ruby.</p>
 <p>- 👯 I’m looking to collaborate on open-source projects. Mainly web-based.</p>
 <p>- 🤔 I’m looking for help with implementing security features to the voting system application to help curb hacking.</p>
 <p>- 💬 Ask me about anything really, I am an open book and love socializing.</p>
