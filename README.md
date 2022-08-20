@@ -12,7 +12,7 @@
 <p>- 🌱 I’m currently learning Software Engineering and in particular, Javascript and Ruby.</p>
 <p>- 👯 I’m looking to collaborate on open-source projects. Mainly web-based.</p>
 <p>- 🤔 I’m looking for help with implementing security features to the voting system application to help curb hacking.</p>
-<p>- 💬 Ask me about anything really, I am an open book and love socializing.</p>
+<p>- 💬 Ask me about Linux, I am fascinated by it.</p>
 <p>- 📫 How to reach me: ochiengphillip84@gmail.com</p>
 <p>- ⚡ Fun fact: Bleach is the best anime. Change my mind.</p>
 
