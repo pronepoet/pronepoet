@@ -1,4 +1,4 @@
-<h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineering Student in Flatiron School.</h1>
+<h1 style="color:#982C44">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Phillip, a passionate Software Engineering Student.</h1>
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=982C44&color=982C44)](https://twitter.com/Ochieng5Phillip)
