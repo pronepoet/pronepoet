@@ -52,4 +52,7 @@
 <a href="https://github.com/pronepoet/Pizza-palace.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
 </a>
+<a href="https://github.com/pronepoet/photo-gallery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+</a>
 
