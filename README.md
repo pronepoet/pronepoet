@@ -8,10 +8,10 @@
 [![Spotify](https://ew-amber.vercel.app/api/spotify)](https://open.spotify.com/user/0a977808e2f346ee820551ee5bde2468)
 
 <h2>About me 😎</h2>
-<p>- 🔭 I’m currently in Flatiron School, a software engineering bootcamp.</p>
-<p>- 🌱 I’m currently learning Software Engineering and in particular, Javascript and Ruby.</p>
+<p>- 🔭 I’m currently actively looking for employment.</p>
+<p>- 🌱 I’m currently learning Next JS and Tailwind CSS.</p>
 <p>- 👯 I’m looking to collaborate on open-source projects. Mainly web-based.</p>
-<p>- 🤔 I’m looking for help with Cybersecurity and implementing a vpn.</p>
+<p>- 🤔 I’m looking for help in machine learning fundamentals.</p>
 <p>- 💬 Ask me about Linux, I am fascinated by it.</p>
 <p>- 📫 How to reach me: ochiengphillip84@gmail.com</p>
 <p>- ⚡ Fun fact: Bleach is the best anime. Change my mind.</p>
