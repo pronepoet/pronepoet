@@ -30,7 +30,7 @@
 <a href="https://figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"></a>
 <a href="https://tailwindui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwind-css.png"></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/next.png"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nextjs.png"></a>
 </p>
 
 
