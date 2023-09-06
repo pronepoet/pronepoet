@@ -47,12 +47,12 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pronepoet&repo=Environs&theme=moltack" />
 </a>
 <a href="https://github.com/pronepoet/Akan_names.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=moltack" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=moltack" />
 </a>
 <a href="https://github.com/pronepoet/Pizza-palace.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+  <img align="center" src="https://github-readme-stats-sigma-five..vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
 </a>
 <a href="https://github.com/pronepoet/photo-gallery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+  <img align="center" src="https://github-readme-stats-sigma-five..vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
 </a>
 
