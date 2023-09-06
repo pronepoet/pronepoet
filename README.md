@@ -44,7 +44,7 @@
 
 <!-- hapa ni place ya readme cards -->
 <a href="https://github.com/pronepoet/Environs.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Environs&theme=moltack" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pronepoet&repo=Environs&theme=moltack" />
 </a>
 <a href="https://github.com/pronepoet/Akan_names.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=moltack" />
