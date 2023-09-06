@@ -33,11 +33,11 @@
 </p>
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
  ## 💻Top languages
 <!-- top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronepoet&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pronepoet&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>📌 Special Repositories</h2>
@@ -50,9 +50,9 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=moltack" />
 </a>
 <a href="https://github.com/pronepoet/Pizza-palace.git">
-  <img align="center" src="https://github-readme-stats-sigma-five..vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
 </a>
 <a href="https://github.com/pronepoet/photo-gallery">
-  <img align="center" src="https://github-readme-stats-sigma-five..vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
 </a>
 
