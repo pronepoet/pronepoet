@@ -9,7 +9,7 @@
 
 <h2>About me 😎</h2>
 <p>- 🔭 I’m currently actively looking for employment.</p>
-<p>- 🌱 I’m currently learning Next JS and Tailwind CSS.</p>
+<p>- 🌱 I’m currently learning Data Structures and Algorithms.</p>
 <p>- 👯 I’m looking to collaborate on open-source projects. Mainly web-based.</p>
 <p>- 🤔 I’m looking for help in machine learning fundamentals.</p>
 <p>- 💬 Ask me about Linux, I am fascinated by it.</p>
